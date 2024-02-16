@@ -1,2 +1,2 @@
 # zodiac-info-
-We helkp people know there own zodiac 
+We help people know there own zodiac 
